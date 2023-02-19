@@ -1,5 +1,5 @@
 #include <iostream>
-usinig namespace std;
+using namespace std;
 int main(){
   cout<<"Hello World"<<endl;
   return;
